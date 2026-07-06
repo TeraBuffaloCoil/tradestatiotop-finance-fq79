@@ -1,4 +1,4 @@
-# 
+# TradeStation Desktop offers powerful trading tools, automated strategy execution, and real-time market data for serious traders.
 
 
 
